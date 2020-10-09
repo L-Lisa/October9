@@ -1,4 +1,5 @@
-import React from 'react'
+import React from "react"
+import { Provider } from "react-redux"
 
 export const App = () => {
   return (
